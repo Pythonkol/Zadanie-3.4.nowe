@@ -33,4 +33,5 @@ sek = ["włącz czajnik","znajdź opakowanie herbaty","zalej herbatę","nalej wo
 nowa = [sek[3], sek[0], sek[1], sek[4], sek [5], sek[2]]
 print (nowa)
 
-
+# Zadanie 3.4
+print ("ABDCD - 3.4")
