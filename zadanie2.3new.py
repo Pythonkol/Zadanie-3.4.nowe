@@ -37,3 +37,5 @@ print (nowa)
 print ("ABDCD - 3.4")
 
 print ("drugi commit")
+
+print ("Pozdrowienia dla Mentora!")
