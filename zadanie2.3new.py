@@ -35,3 +35,5 @@ print (nowa)
 
 # Zadanie 3.4
 print ("ABDCD - 3.4")
+
+print ("drugi commit")
